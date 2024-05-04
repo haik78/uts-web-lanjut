@@ -217,9 +217,13 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website "HAIKAL KURNIAWAN"</h1>
+        <h1>About Me</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+        <h2>
+			Haii Perkenalkan Nama Saya <b>HAIKAL KURNIAWAN</b>,  
+                Saya tinggal di cikampek Kabupaten Karawang, 
+                Saat ini saya bekerja di salah satu perusahaan Finance di cikampek
+		</h2>
 
     </div>
 
@@ -227,14 +231,6 @@
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->

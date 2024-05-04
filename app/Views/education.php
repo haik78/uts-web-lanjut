@@ -217,24 +217,51 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website "HAIKAL KURNIAWAN"</h1>
+        <h1>My Education</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+		<table border="1" cellspasing="0">
+			<tr bgcolor="##800000" style="color:white;">
+				<td width="50px" align="center">No</td>
+				<td width="200px" align="center">Tingkat</td>
+				<td width="600px" align="center">Nama Sekolah</td>
+			</tr>
 
+			<tr >
+				<td >1</td>
+				<td >TK</td>
+				<td >TK BABUSSALAM - PUCUNG</td>
+			</tr>
+
+			<tr >
+				<td >2</td>
+				<td >SD</td>
+				<td >SDN WANCIMEKAR 1 - KOTA BARU</td>
+			</tr>
+
+			<tr >
+				<td >3</td>
+				<td >SMP</td>
+				<td >SMPN 1 JATISARI - JATISARI</td>
+			</tr>
+			
+			<tr >
+				<td >4</td>
+				<td >SMK</td>
+				<td >SMKS TRIMITRA KOTABARU - KARAWANG</td>
+			</tr>
+			
+			<tr >
+				<td >5</td>
+				<td >Kuliah</td>>
+				<td > UNIVERSITAS WIDYATAMA - BANDUNG</td>
+			</tr>
+		</table>
     </div>
 
 </header>
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
